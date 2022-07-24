@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Streaming from addr: $1"
+gst-launch-1.0 -v tcpclientsrc host="$1" port=8160 ! gdpdepay ! rtph264depay ! autovideosink sync=false
