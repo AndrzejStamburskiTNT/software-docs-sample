@@ -16,6 +16,7 @@ Change someting more.
 .. note::
 
    This project is under active development.
+   Adding a new line.
 
 Contents
 --------
@@ -24,3 +25,5 @@ Contents
 
    usage
    api
+   chapterone
+   bicycle
