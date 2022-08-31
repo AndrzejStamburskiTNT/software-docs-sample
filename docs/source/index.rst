@@ -25,3 +25,5 @@ Contents
 
    usage
    api
+   chapterone
+   bicycle
